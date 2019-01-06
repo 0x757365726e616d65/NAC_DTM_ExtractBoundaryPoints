@@ -1,5 +1,5 @@
 //
-//  main.c
+//  NAC_DTM_ExtractBoundaryPoints.c
 //  NAC_DTM_ExtractBoundary
 //
 //  Created by MingleZhao on 2019/1/4.
