@@ -23,7 +23,7 @@ char *int2str(char *str, int n);
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 int main(int argc, const char *argv[])
 {
-    NAC_DTM_ExtractBoundaryPoints("/Users/minglezhao/Documents/Data/LRO/LROC/NAC/NAC_DTM/NAC_DTM_TOTAL/LROC_NAC_DTM", "/Users/minglezhao/Desktop/NAC_DTM_TEST", 8);
+    NAC_DTM_ExtractBoundaryPoints("/Users/minglezhao/Documents/Data/LRO/LROC/NAC/NAC_DTM/NAC_DTM_TOTAL/LROC_NAC_DTM", "/Users/minglezhao/Desktop/NAC_DTM_TEST", 2);
     
     return((void) printf("\nDone. \n"), 0);
 }
